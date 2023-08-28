@@ -1,0 +1,7 @@
+Tv,1500.00
+Mouse,60.00
+Tablet,450.00
+HD SSD,199.00
+Computador,2500.00
+Monitor,1399.00
+Processador,1300.00
